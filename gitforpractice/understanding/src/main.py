@@ -1,13 +1,4 @@
-#feature1
-#main appllication code
-#partitions
-#palns
-#palns
-
-
-
-
-#main appllication code
+#main application code
  def main():
      pass
 
